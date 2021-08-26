@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="E-CommerceAutomation">
+<listeners>
+<listener class-name="Generic.Extendreport"></listener>
+</listeners>
+
+<test name="Verify Dress details">
+
+<parameter name="Browser" value="chrome"/>
+
+<classes>
+<class  name="Scripts.CreateAccount_TestCase1">
+
+
+
+
+</class>
+</classes>
+
+</test>
+
+
+<!--  <test name="Sign in verification">
+<parameter name="Browser" value="chrome"/>
+<classes>
+<class  name="Scripts.Sign_inTest2">
+</class>
+</classes>
+
+</test>-->
+</suite>

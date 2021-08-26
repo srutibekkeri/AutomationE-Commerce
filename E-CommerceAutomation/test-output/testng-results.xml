@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-23T13:46:43 CDT" name="Default suite" finished-at="2021-08-23T13:46:47 CDT" duration-ms="4069">
+    <groups>
+    </groups>
+    <test started-at="2021-08-23T13:46:43 CDT" name="Default test" finished-at="2021-08-23T13:46:47 CDT" duration-ms="4069">
+      <class name="Grid.LoginwithGrid">
+        <test-method signature="setUp()[pri:1, instance:Grid.LoginwithGrid@1e802ef9]" started-at="2021-08-23T13:46:43 CDT" name="setUp" finished-at="2021-08-23T13:46:46 CDT" duration-ms="2820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Login()[pri:2, instance:Grid.LoginwithGrid@1e802ef9]" started-at="2021-08-23T13:46:46 CDT" name="Login" finished-at="2021-08-23T13:46:47 CDT" duration-ms="1189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- Grid.LoginwithGrid -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
